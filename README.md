@@ -1,4 +1,4 @@
-# AI-Rankings | AI排行榜
+#  常用AI排行榜对比分析  | AI Rankings
 
 ### 模型竞技场
 https://lmarena.ai/leaderboard/
